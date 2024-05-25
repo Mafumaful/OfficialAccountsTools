@@ -14,3 +14,8 @@ conda install -c conda-forge manim
 pixi init
 pixi add manim
 ```
+
+## reference
+
+1. [设置字体](https://www.cnblogs.com/wang_yb/p/17294918.html)
+2. [添加字体](https://www.bilibili.com/read/cv15293331/)
